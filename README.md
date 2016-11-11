@@ -2,6 +2,8 @@
 
 This README file is the Introduction of "EE569_hw1_4946850713_Shen.zip" and 
                     the Guidance of compiling and running the projects.
+                    
+The source code outside the .zip file is just a sample. Please unzip the .zip file to see and run the complete project.
 
 #################################################
 
